@@ -1,1 +1,102 @@
-# my_books
+# Structures
+
+- 📂 __my\_books__
+   - 📂 __artificial\_intelligence__
+     - 📂 __machine\_learning__
+       - 📂 __deep\_learning__
+         - 📄 [nndl\-book.pdf](artificial_intelligence/machine_learning/deep_learning/nndl-book.pdf)
+   - 📂 __computer\_network__
+     - 📄 [Computer Networking A Top\-Down Approach 8th Edition by James W. Kurose, Keith W. Ross.pdf](computer_network/Computer%20Networking%20A%20Top-Down%20Approach%208th%20Edition%20by%20James%20W.%20Kurose%2C%20Keith%20W.%20Ross.pdf)
+     - 📄 [Computer Networking A Top\-Down Approach Global Edition 8th Edition by Kurose, James, Ross, Keith.pdf](computer_network/Computer%20Networking%20A%20Top-Down%20Approach%20Global%20Edition%208th%20Edition%20by%20Kurose%2C%20James%2C%20Ross%2C%20Keith.pdf)
+   - 📂 __computer\_science__
+     - 📄 [Computer Science An Overview 13th Edtion by Glenn Brookshear, Dennis Brylow.pdf](computer_science/Computer%20Science%20An%20Overview%2013th%20Edtion%20by%20Glenn%20Brookshear%2C%20Dennis%20Brylow.pdf)
+   - 📂 __data\_structures\_and\_algorithms__
+     - 📄 [Algorithms 1st Edition JeffE.pdf](data_structures_and_algorithms/Algorithms%201st%20Edition%20JeffE.pdf)
+     - 📄 [Algorithms 4th Edition by Robert Sedgewick and Kevin Wayne.pdf](data_structures_and_algorithms/Algorithms%204th%20Edition%20by%20Robert%20Sedgewick%20and%20Kevin%20Wayne.pdf)
+     - 📄 [Data Structures and Algorithms in Java 6th Edition.pdf](data_structures_and_algorithms/Data%20Structures%20and%20Algorithms%20in%20Java%206th%20Edition.pdf)
+     - 📄 [Grokking Algorithms by Aditya Y. Bhargava.pdf](data_structures_and_algorithms/Grokking%20Algorithms%20by%20Aditya%20Y.%20Bhargava.pdf)
+     - 📄 [Introduction to Algorithms 4th edition by Thomas H. Cormen, Charles E. Leiserson.pdf](data_structures_and_algorithms/Introduction%20to%20Algorithms%204th%20edition%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson.pdf)
+     - 📄 [The Algorithm Design Manual 3rd Edition by Steve S. Skiena.pdf](data_structures_and_algorithms/The%20Algorithm%20Design%20Manual%203rd%20Edition%20by%20Steve%20S.%20Skiena.pdf)
+   - 📂 __database__
+     - 📄 [Readings in Database Systems 5th Edition.pdf](database/Readings%20in%20Database%20Systems%205th%20Edition.pdf)
+     - 📂 __database\_system\_concepts__
+       - 📄 [Database System Concepts 7th Edition by Abraham Silberschatz, Henry F. Korth.pdf](database/database_system_concepts/Database%20System%20Concepts%207th%20Edition%20by%20Abraham%20Silberschatz%2C%20Henry%20F.%20Korth.pdf)
+       - 📄 [Database System Concepts Online Chapters 7th Edition by Abraham Silberschatz, Henry F. Korth.pdf](database/database_system_concepts/Database%20System%20Concepts%20Online%20Chapters%207th%20Edition%20by%20Abraham%20Silberschatz%2C%20Henry%20F.%20Korth.pdf)
+   - 📂 __design\_patterns__
+     - 📄 [Dive Into Design Patterns by Alexander Shvets.pdf](design_patterns/Dive%20Into%20Design%20Patterns%20by%20Alexander%20Shvets.pdf)
+   - 📂 __git__
+     - 📂 __pro\_git__
+       - 📄 [progit.epub](git/pro_git/progit.epub)
+       - 📄 [progit.mobi](git/pro_git/progit.mobi)
+       - 📄 [progit.pdf](git/pro_git/progit.pdf)
+   - 📂 __github__
+     - 📂 __github\_roam__
+       - 📄 [github\-roam.epub](github/github_roam/github-roam.epub)
+       - 📄 [github\-roam.mobi](github/github_roam/github-roam.mobi)
+       - 📄 [github\-roam.pdf](github/github_roam/github-roam.pdf)
+       - 📄 [online version](github/github_roam/online%20version)
+   - 📂 __languages__
+     - 📂 __english__
+       - 📂 __english\_in\_use__
+         - 📄 [Academic Vocabulary in Use Edition With Answers by Michael McCarthy Felicity O'Dell.pdf](languages/english/english_in_use/Academic%20Vocabulary%20in%20Use%20Edition%20With%20Answers%20by%20Michael%20McCarthy%20Felicity%20O'Dell.pdf)
+         - 📄 [English Collocations in Use Advanced Book with Answers by Michael McCarthy, Felicity O'Dell.pdf](languages/english/english_in_use/English%20Collocations%20in%20Use%20Advanced%20Book%20with%20Answers%20by%20Michael%20McCarthy%2C%20Felicity%20O'Dell.pdf)
+         - 📄 [English Collocations in Use Intermediate Book with Answers by Michael McCarthy, Felicity O'Dell.pdf](languages/english/english_in_use/English%20Collocations%20in%20Use%20Intermediate%20Book%20with%20Answers%20by%20Michael%20McCarthy%2C%20Felicity%20O'Dell.pdf)
+         - 📄 [English Grammar in Use Book with Answers by Raymond Murphy.pdf](languages/english/english_in_use/English%20Grammar%20in%20Use%20Book%20with%20Answers%20by%20Raymond%20Murphy.pdf)
+         - 📄 [English Grammar in Use Supplementary Exercises Book with Answers by Louise Hashemi, Raymond Murphy.pdf](languages/english/english_in_use/English%20Grammar%20in%20Use%20Supplementary%20Exercises%20Book%20with%20Answers%20by%20Louise%20Hashemi%2C%20Raymond%20Murphy.pdf)
+         - 📄 [English Phrasal Verbs in Use Advanced Book With Answers by Michael McCarthy, Felicity O'Dell.pdf](languages/english/english_in_use/English%20Phrasal%20Verbs%20in%20Use%20Advanced%20Book%20With%20Answers%20by%20Michael%20McCarthy%2C%20Felicity%20O'Dell.pdf)
+         - 📄 [English Phrasal Verbs in Use Intermediate by Michael McCarthy, Felicity O'Dell.pdf](languages/english/english_in_use/English%20Phrasal%20Verbs%20in%20Use%20Intermediate%20by%20Michael%20McCarthy%2C%20Felicity%20O'Dell.pdf)
+         - 📄 [English Vocabulary in Use Advanced Vocabulary Reference and Practice Book with Answers by Michael McCarthy, Felicity O'Dell.pdf](languages/english/english_in_use/English%20Vocabulary%20in%20Use%20Advanced%20Vocabulary%20Reference%20and%20Practice%20Book%20with%20Answers%20by%20Michael%20McCarthy%2C%20Felicity%20O'Dell.pdf)
+         - 📄 [English Vocabulary in Use Elementary Book with Answers by Michael McCarthy, Felicity O'Dell.pdf](languages/english/english_in_use/English%20Vocabulary%20in%20Use%20Elementary%20Book%20with%20Answers%20by%20Michael%20McCarthy%2C%20Felicity%20O'Dell.pdf)
+         - 📄 [English Vocabulary in Use Pre\-Intermediate and Intermediate Book with Answers by Stuart Redman.pdf](languages/english/english_in_use/English%20Vocabulary%20in%20Use%20Pre-Intermediate%20and%20Intermediate%20Book%20with%20Answers%20by%20Stuart%20Redman.pdf)
+         - 📄 [English Vocabulary in Use Upper\-Intermediate Book with Answers by Michael McCarthy, Felicity O'Dell.pdf](languages/english/english_in_use/English%20Vocabulary%20in%20Use%20Upper-Intermediate%20Book%20with%20Answers%20by%20Michael%20McCarthy%2C%20Felicity%20O'Dell.pdf)
+   - 📂 __mathematics__
+     - 📂 __calculus__
+       - 📂 __larson\_calculus__
+         - 📄 [Calculus 11th edition by Ron Larson, Bruce Edwards.pdf](mathematics/calculus/larson_calculus/Calculus%2011th%20edition%20by%20Ron%20Larson%2C%20Bruce%20Edwards.pdf)
+         - 📄 [Calculus Early Transcendental Functions 7th edition by Ron Larson, Bruce Edwards.pdf](mathematics/calculus/larson_calculus/Calculus%20Early%20Transcendental%20Functions%207th%20edition%20by%20Ron%20Larson%2C%20Bruce%20Edwards.pdf)
+         - 📄 [Larson Calculus Cheat Sheet.pdf](mathematics/calculus/larson_calculus/Larson%20Calculus%20Cheat%20Sheet.pdf)
+         - 📄 [appendix\-c\-precalculus\-review.pdf](mathematics/calculus/larson_calculus/appendix-c-precalculus-review.pdf)
+         - 📄 [appendix\-d\-rotation\-and\-the\-general\-second\-degree\-equation.pdf](mathematics/calculus/larson_calculus/appendix-d-rotation-and-the-general-second-degree-equation.pdf)
+         - 📄 [appendix\-e\-complex\-numbers.pdf](mathematics/calculus/larson_calculus/appendix-e-complex-numbers.pdf)
+         - 📄 [appendix\-f\-business\-and\-economic\-applications.pdf](mathematics/calculus/larson_calculus/appendix-f-business-and-economic-applications.pdf)
+         - 📄 [appendix\-g\-fitting\-models\-to\-data.pdf](mathematics/calculus/larson_calculus/appendix-g-fitting-models-to-data.pdf)
+         - 📄 [chapter16\-additional\-topics\-in\-differential\-equations.pdf](mathematics/calculus/larson_calculus/chapter16-additional-topics-in-differential-equations.pdf)
+       - 📂 __paul\_calculus__
+         - 📄 [CalcIII\_Complete.pdf](mathematics/calculus/paul_calculus/CalcIII_Complete.pdf)
+         - 📄 [CalcII\_Complete.pdf](mathematics/calculus/paul_calculus/CalcII_Complete.pdf)
+         - 📄 [CalcI\_Complete.pdf](mathematics/calculus/paul_calculus/CalcI_Complete.pdf)
+         - 📄 [Calculus\_Cheat\_Sheet\_All.pdf](mathematics/calculus/paul_calculus/Calculus_Cheat_Sheet_All.pdf)
+         - 📄 [DE\_Complete.pdf](mathematics/calculus/paul_calculus/DE_Complete.pdf)
+       - 📂 __stewart\_calculus__
+         - 📄 [Calculus Early Transcendentals 9th Edition Metric Edition by James Stewart, Daniel Clegg, Saleem Watson.pdf](mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20Metric%20Edition%20by%20James%20Stewart%2C%20Daniel%20Clegg%2C%20Saleem%20Watson.pdf)
+         - 📄 [Calculus Early Transcendentals 9th Edition by James Stewart, Daniel K. Clegg, Saleem Watson, Lothar Redlin.pdf.pdf](mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%2C%20Lothar%20Redlin.pdf.pdf)
+         - 📄 [Instructor’s Solutions Manuals for Calculus Early Transcendentals 9th Edition by James Stewart, Daniel K. Clegg, Saleem Watson.pdf](mathematics/calculus/stewart_calculus/Instructor%E2%80%99s%20Solutions%20Manuals%20for%20Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson.pdf)
+       - 📂 __thomas\_calculus__
+         - 📄 [Instructors Solutions Manual to Thomas Calculus 14th Edition by Duane Kouba, George B. Thomas, Maurice D. Weir, Joel R. Hass.pdf](mathematics/calculus/thomas_calculus/Instructors%20Solutions%20Manual%20to%20Thomas%20Calculus%2014th%20Edition%20by%20Duane%20Kouba%2C%20George%20B.%20Thomas%2C%20Maurice%20D.%20Weir%2C%20Joel%20R.%20Hass.pdf)
+         - 📄 [Thomas Calculus 14th Edition by George B. Thomas, Joel R. Hass, Christopher Heil, Maurice D. Weir.pdf](mathematics/calculus/thomas_calculus/Thomas%20Calculus%2014th%20Edition%20by%20George%20B.%20Thomas%2C%20Joel%20R.%20Hass%2C%20Christopher%20Heil%2C%20Maurice%20D.%20Weir.pdf)
+     - 📂 __linear\_algebra__
+       - 📄 [Linear Algebra and Its Applications 5th Edition by David C. Lay, Steven R. Lay, Judi J. McDonald.pdf](mathematics/linear_algebra/Linear%20Algebra%20and%20Its%20Applications%205th%20Edition%20by%20David%20C.%20Lay%2C%20Steven%20R.%20Lay%2C%20Judi%20J.%20McDonald.pdf)
+       - 📄 [Linear Algebra and Its Applications, 4th Edition by Gilbert Strang.pdf](mathematics/linear_algebra/Linear%20Algebra%20and%20Its%20Applications%2C%204th%20Edition%20by%20Gilbert%20Strang.pdf)
+       - 📂 __introduction\_to\_linear\_algebra__
+         - 📄 [Introduction to Linear Algebra Fifth Edition by Gilbert Strang.pdf](mathematics/linear_algebra/introduction_to_linear_algebra/Introduction%20to%20Linear%20Algebra%20Fifth%20Edition%20by%20Gilbert%20Strang.pdf)
+         - 📄 [Solutions Manual for Introduction to Linear Algebra Fifth Edition by Gilbert Strang.pdf](mathematics/linear_algebra/introduction_to_linear_algebra/Solutions%20Manual%20for%20Introduction%20to%20Linear%20Algebra%20Fifth%20Edition%20by%20Gilbert%20Strang.pdf)
+   - 📂 __operating\_systems__
+     - 📄 [How Linux Works What Every Superuser Should Know 3rd Edition by Brian Ward.pdf](operating_systems/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know%203rd%20Edition%20by%20Brian%20Ward.pdf)
+     - 📄 [The Linux Programming Interface A Linux and UNIX System Programming Handbook by Kerrisk, Michael.pdf](operating_systems/The%20Linux%20Programming%20Interface%20A%20Linux%20and%20UNIX%20System%20Programming%20Handbook%20by%20Kerrisk%2C%20Michael.pdf)
+   - 📂 __programming__
+     - 📄 [Dive Into Refactoring by Alexander Shvets.pdf](programming/Dive%20Into%20Refactoring%20by%20Alexander%20Shvets.pdf)
+   - 📂 __programming\_language__
+     - 📂 __cpp__
+       - 📄 [A Tour of C++ 2nd Edition by Bjarne Stroustrup.pdf](programming_language/cpp/A%20Tour%20of%20C%2B%2B%202nd%20Edition%20by%20Bjarne%20Stroustrup.pdf)
+       - 📄 [C++ Primer 5th Edition by Stanley B. Lippman, Josee LaJoie, Barbara Moo.pdf](programming_language/cpp/C%2B%2B%20Primer%205th%20Edition%20by%20Stanley%20B.%20Lippman%2C%20Josee%20LaJoie%2C%20Barbara%20Moo.pdf)
+     - 📂 __java__
+       - 📄 [Core Java. Volume I 11th Edition \- Fundamentals by Horstmann Cay S..pdf](programming_language/java/Core%20Java.%20Volume%20I%2011th%20Edition%20-%20Fundamentals%20by%20Horstmann%20Cay%20S..pdf)
+       - 📄 [Core Java. Volume II 11th Edition \- Advanced Features by Horstmann Cay S..pdf](programming_language/java/Core%20Java.%20Volume%20II%2011th%20Edition%20-%20Advanced%20Features%20by%20Horstmann%20Cay%20S..pdf)
+       - 📄 [Effective Java 3rd Edition by Joshua Bloch.pdf](programming_language/java/Effective%20Java%203rd%20Edition%20by%20Joshua%20Bloch.pdf)
+       - 📄 [Head First Java 3rd Edition by Sierra, Kathy  Bates, Bert  Gee, Trisha.pdf](programming_language/java/Head%20First%20Java%203rd%20Edition%20by%20Sierra%2C%20Kathy%20%20Bates%2C%20Bert%20%20Gee%2C%20Trisha.pdf)
+     - 📂 __python__
+       - 📄 [Python Crash Course 2nd Edition.pdf](programming_language/python/Python%20Crash%20Course%202nd%20Edition.pdf)
+       - 📄 [Python Crash Course 2nd.Edition.epub](programming_language/python/Python%20Crash%20Course%202nd.Edition.epub)
+   - 📂 __spring__
+     - 📄 [Spring in Action 6th Edition by Craig Walls.pdf](spring/Spring%20in%20Action%206th%20Edition%20by%20Craig%20Walls.pdf)
+
