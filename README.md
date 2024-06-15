@@ -24,6 +24,7 @@
        - 📄 [Database System Concepts Online Chapters 7th Edition by Abraham Silberschatz, Henry F. Korth.pdf](database/database_system_concepts/Database%20System%20Concepts%20Online%20Chapters%207th%20Edition%20by%20Abraham%20Silberschatz%2C%20Henry%20F.%20Korth.pdf)
    - 📂 __design\_patterns__
      - 📄 [Dive Into Design Patterns by Alexander Shvets.pdf](design_patterns/Dive%20Into%20Design%20Patterns%20by%20Alexander%20Shvets.pdf)
+     - 📄 [Head First Design Patterns 2nd Edition by Eric Freeman, Elisabeth Robson.pdf](design_patterns/Head%20First%20Design%20Patterns%202nd%20Edition%20by%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf)
    - 📂 __git__
      - 📂 __pro\_git__
        - 📄 [progit.epub](git/pro_git/progit.epub)
