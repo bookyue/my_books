@@ -24,6 +24,7 @@
        - 📄 [Database System Concepts Online Chapters 7th Edition by Abraham Silberschatz, Henry F. Korth.pdf](database/database_system_concepts/Database%20System%20Concepts%20Online%20Chapters%207th%20Edition%20by%20Abraham%20Silberschatz%2C%20Henry%20F.%20Korth.pdf)
    - 📂 __design\_patterns__
      - 📄 [Dive Into Design Patterns by Alexander Shvets.pdf](design_patterns/Dive%20Into%20Design%20Patterns%20by%20Alexander%20Shvets.pdf)
+     - 📄 [Head First Design Patterns 2nd Edition by Eric Freeman, Elisabeth Robson.pdf](design_patterns/Head%20First%20Design%20Patterns%202nd%20Edition%20by%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf)
    - 📂 __git__
      - 📂 __pro\_git__
        - 📄 [progit.epub](git/pro_git/progit.epub)
@@ -69,7 +70,7 @@
          - 📄 [DE\_Complete.pdf](mathematics/calculus/paul_calculus/DE_Complete.pdf)
        - 📂 __stewart\_calculus__
          - 📄 [Calculus Early Transcendentals 9th Edition Metric Edition by James Stewart, Daniel Clegg, Saleem Watson.pdf](mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20Metric%20Edition%20by%20James%20Stewart%2C%20Daniel%20Clegg%2C%20Saleem%20Watson.pdf)
-         - 📄 [Calculus Early Transcendentals 9th Edition by James Stewart, Daniel K. Clegg, Saleem Watson, Lothar Redlin.pdf.pdf](mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%2C%20Lothar%20Redlin.pdf.pdf)
+         - 📄 [Calculus Early Transcendentals 9th Edition by James Stewart, Daniel K. Clegg, Saleem Watson, Lothar Redlin.pdf](mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%2C%20Lothar%20Redlin.pdf)
          - 📄 [Instructor’s Solutions Manuals for Calculus Early Transcendentals 9th Edition by James Stewart, Daniel K. Clegg, Saleem Watson.pdf](mathematics/calculus/stewart_calculus/Instructor%E2%80%99s%20Solutions%20Manuals%20for%20Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson.pdf)
        - 📂 __thomas\_calculus__
          - 📄 [Instructors Solutions Manual to Thomas Calculus 14th Edition by Duane Kouba, George B. Thomas, Maurice D. Weir, Joel R. Hass.pdf](mathematics/calculus/thomas_calculus/Instructors%20Solutions%20Manual%20to%20Thomas%20Calculus%2014th%20Edition%20by%20Duane%20Kouba%2C%20George%20B.%20Thomas%2C%20Maurice%20D.%20Weir%2C%20Joel%20R.%20Hass.pdf)
