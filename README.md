@@ -95,6 +95,8 @@
        - 📄 [Core Java. Volume II 11th Edition \- Advanced Features by Horstmann Cay S..pdf](programming_language/java/Core%20Java.%20Volume%20II%2011th%20Edition%20-%20Advanced%20Features%20by%20Horstmann%20Cay%20S..pdf)
        - 📄 [Effective Java 3rd Edition by Joshua Bloch.pdf](programming_language/java/Effective%20Java%203rd%20Edition%20by%20Joshua%20Bloch.pdf)
        - 📄 [Head First Java 3rd Edition by Sierra, Kathy  Bates, Bert  Gee, Trisha.pdf](programming_language/java/Head%20First%20Java%203rd%20Edition%20by%20Sierra%2C%20Kathy%20%20Bates%2C%20Bert%20%20Gee%2C%20Trisha.pdf)
+       - 📄 [Java Concurrency in Practice by Brian Goetz.pdf](programming_language/java/Java%20Concurrency%20in%20Practice%20by%20Brian%20Goetz.pdf)
+       - 📄 [Thinking in Java 4th Edition by Bruce Eckel.pdf](programming_language/java/Thinking%20in%20Java%204th%20Edition%20by%20Bruce%20Eckel.pdf)
      - 📂 __python__
        - 📄 [Python Crash Course 2nd Edition.pdf](programming_language/python/Python%20Crash%20Course%202nd%20Edition.pdf)
        - 📄 [Python Crash Course 2nd.Edition.epub](programming_language/python/Python%20Crash%20Course%202nd.Edition.epub)
