@@ -103,4 +103,6 @@
        - 📄 [Python Crash Course 2nd.Edition.epub](programming_language/python/Python%20Crash%20Course%202nd.Edition.epub)
    - 📂 __spring__
      - 📄 [Spring in Action 6th Edition by Craig Walls.pdf](spring/Spring%20in%20Action%206th%20Edition%20by%20Craig%20Walls.pdf)
+   - 📂 __system\_design__
+     - 📄 [Designing Data\-Intensive Applications by Martin Kleppmann.pdf](system_design/Designing%20Data-Intensive%20Applications%20by%20Martin%20Kleppmann.pdf)
 
